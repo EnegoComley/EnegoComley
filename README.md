@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I like making fractaks in C# 👋
 
 <!--
 **Enego-Comley/Enego-Comley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
